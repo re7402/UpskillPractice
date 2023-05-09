@@ -1,0 +1,8 @@
+C:\Users\SAILS-DM244\Documents\DesignPatterns\FilterByColor\FilterByColor\bin\Debug\FilterByColor.exe.config
+C:\Users\SAILS-DM244\Documents\DesignPatterns\FilterByColor\FilterByColor\bin\Debug\FilterByColor.exe
+C:\Users\SAILS-DM244\Documents\DesignPatterns\FilterByColor\FilterByColor\bin\Debug\FilterByColor.pdb
+C:\Users\SAILS-DM244\Documents\DesignPatterns\FilterByColor\FilterByColor\obj\Debug\FilterByColor.csproj.AssemblyReference.cache
+C:\Users\SAILS-DM244\Documents\DesignPatterns\FilterByColor\FilterByColor\obj\Debug\FilterByColor.csproj.SuggestedBindingRedirects.cache
+C:\Users\SAILS-DM244\Documents\DesignPatterns\FilterByColor\FilterByColor\obj\Debug\FilterByColor.csproj.CoreCompileInputs.cache
+C:\Users\SAILS-DM244\Documents\DesignPatterns\FilterByColor\FilterByColor\obj\Debug\FilterByColor.exe
+C:\Users\SAILS-DM244\Documents\DesignPatterns\FilterByColor\FilterByColor\obj\Debug\FilterByColor.pdb

@@ -1,0 +1,8 @@
+C:\Users\SAILS-DM244\Documents\DesignPatterns\OpenClosePrinciple\OpenClosePrinciple\bin\Debug\OpenClosePrinciple.exe.config
+C:\Users\SAILS-DM244\Documents\DesignPatterns\OpenClosePrinciple\OpenClosePrinciple\bin\Debug\OpenClosePrinciple.exe
+C:\Users\SAILS-DM244\Documents\DesignPatterns\OpenClosePrinciple\OpenClosePrinciple\bin\Debug\OpenClosePrinciple.pdb
+C:\Users\SAILS-DM244\Documents\DesignPatterns\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\OpenClosePrinciple.csproj.AssemblyReference.cache
+C:\Users\SAILS-DM244\Documents\DesignPatterns\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\OpenClosePrinciple.csproj.SuggestedBindingRedirects.cache
+C:\Users\SAILS-DM244\Documents\DesignPatterns\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\OpenClosePrinciple.csproj.CoreCompileInputs.cache
+C:\Users\SAILS-DM244\Documents\DesignPatterns\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\OpenClosePrinciple.exe
+C:\Users\SAILS-DM244\Documents\DesignPatterns\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\OpenClosePrinciple.pdb

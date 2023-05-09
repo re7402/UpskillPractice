@@ -1,0 +1,31 @@
+﻿@page
+@model PizzaProjuct.Pages.Forms.CustomPizzaModel
+@{
+}
+<div class="text-center">
+     <h1>Add toppings</h1>
+     <form method="post">
+         <input type="text" asp-for="pizzaToppings.PizzaName"/>
+         </br>
+         <input type="checkbox" asp-for="pizzaToppings.Cheese" /> Cheese
+         </br>
+         <input type="checkbox" asp-for="pizzaToppings.Chicken" /> Chicken
+         </br>
+         <input type="checkbox" asp-for="pizzaToppings.GoldenCorn" /> GoldenCorn
+         </br>
+         <input type="checkbox" asp-for="pizzaToppings.Mushroom" /> Mushroom
+         </br>
+         <input type="checkbox" asp-for="pizzaToppings.Peperoni"/> Peperoni
+         </br>
+         <input type="checkbox" asp-for="pizzaToppings.OliveSprings"  /> OliveSprings
+         </br>
+         <input type="checkbox" asp-for="pizzaToppings.Sauce" /> Sauce
+         </br>
+         <input type="checkbox" asp-for="pizzaToppings.PepperBarbequeChicken"  /> PepperBarbequeChicken
+         </br>
+         </br>
+         <button class="btn-primary" type="submit">Order Pizza</button>
+
+     </form>
+</div>
+

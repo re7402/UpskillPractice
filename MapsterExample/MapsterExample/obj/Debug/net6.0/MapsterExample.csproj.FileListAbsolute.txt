@@ -1,0 +1,12 @@
+C:\Users\SAILS-DM244\Documents\DesignPatterns\Udemy\MapsterExample\MapsterExample\bin\Debug\net6.0\MapsterExample.deps.json
+C:\Users\SAILS-DM244\Documents\DesignPatterns\Udemy\MapsterExample\MapsterExample\bin\Debug\net6.0\MapsterExample.dll
+C:\Users\SAILS-DM244\Documents\DesignPatterns\Udemy\MapsterExample\MapsterExample\bin\Debug\net6.0\MapsterExample.pdb
+C:\Users\SAILS-DM244\Documents\DesignPatterns\Udemy\MapsterExample\MapsterExample\obj\Debug\net6.0\MapsterExample.csproj.AssemblyReference.cache
+C:\Users\SAILS-DM244\Documents\DesignPatterns\Udemy\MapsterExample\MapsterExample\obj\Debug\net6.0\MapsterExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAILS-DM244\Documents\DesignPatterns\Udemy\MapsterExample\MapsterExample\obj\Debug\net6.0\MapsterExample.AssemblyInfoInputs.cache
+C:\Users\SAILS-DM244\Documents\DesignPatterns\Udemy\MapsterExample\MapsterExample\obj\Debug\net6.0\MapsterExample.AssemblyInfo.cs
+C:\Users\SAILS-DM244\Documents\DesignPatterns\Udemy\MapsterExample\MapsterExample\obj\Debug\net6.0\MapsterExample.csproj.CoreCompileInputs.cache
+C:\Users\SAILS-DM244\Documents\DesignPatterns\Udemy\MapsterExample\MapsterExample\obj\Debug\net6.0\MapsterExample.dll
+C:\Users\SAILS-DM244\Documents\DesignPatterns\Udemy\MapsterExample\MapsterExample\obj\Debug\net6.0\refint\MapsterExample.dll
+C:\Users\SAILS-DM244\Documents\DesignPatterns\Udemy\MapsterExample\MapsterExample\obj\Debug\net6.0\MapsterExample.pdb
+C:\Users\SAILS-DM244\Documents\DesignPatterns\Udemy\MapsterExample\MapsterExample\obj\Debug\net6.0\ref\MapsterExample.dll
